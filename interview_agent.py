@@ -3,7 +3,7 @@
     Marvellous SmartHire AI Agent
 ============================================================
 
-Author       : Piyush Manohar Khairnar
+Author       : Mayank Salunkhe
 Date         : 10/05/2026
 
 Description  :
@@ -227,12 +227,12 @@ Give one practical suggestion to improve interview performance.
 
         # Create initial report
         report = f"""
+        
 ============================================================
-              Marvellous Infosystems
               AI Mock Interview Report
 ============================================================
 
-Author       : Piyush Manohar Khairnar
+Author       : Mayank Salunkhe
 Date         : 10/05/2026
 
 Student Name : {self.student_name}
@@ -276,6 +276,7 @@ Average Score         : {average_score:.2f}/10
 
         # Add detailed analysis section
         report += """
+        
 ============================================================
               Detailed Question-wise Analysis
 ============================================================
