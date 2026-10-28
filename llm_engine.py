@@ -4,7 +4,7 @@ Marvellous SmartHire AI Agent
 ============================================================
 
 File Name    : llm_engine.py
-Author       : Piyush Manohar Khairnar
+Author       : Mayank Salunkhe
 Date         : 10/05/2026
 
 Description  :
@@ -113,7 +113,4 @@ Please check the following points carefully:
 4. Internet is not required for local execution
 5. Port 11434 is available
 
-============================================================
-        Marvellous Infosystems
-============================================================
 """
