@@ -50,8 +50,7 @@ Marvellous_SmartHire_AI_Agent/
 ├── questions.py          # Question bank
 ├── report_generator.py   # save_report(): writes the .txt report
 ├── NOTES.md
-├── LICENSE
-└── reports/              # Generated interview reports
+└── LICENSE
 ```
 
 ## Getting Started
