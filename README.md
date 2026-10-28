@@ -199,9 +199,7 @@ Questions are loaded from questions.py
             |  no / all questions done
             v
 Final report is generated
-        |
-        v
-Report is saved using report_generator.py  ->  reports/
+
 ```
 
 **LLM call:**
