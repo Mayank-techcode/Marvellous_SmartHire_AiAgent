@@ -2,7 +2,7 @@
 ============================================================
                 Marvellous SmartHire AI Agent
 ============================================================
-Author       : Piyush Manohar Khairnar
+Author       : Mayank Salunkhe
 Date         : 10/05/2026
 
 Description  :
@@ -33,7 +33,7 @@ def print_header():
     print("              Marvellous Infosystems")
     print("              AI Mock Interview Agent")
     print("              Text Based Version")
-    print("              Author : Piyush Manohar Khairnar")
+    print("              Author : Mayank Salunkhe")
     print("              Date   : 10/05/2026")
     print("              आम्ही Technical संस्कार करतो !!!")
     print("=" * 70)
@@ -73,8 +73,8 @@ def start_interview(agent, selected_questions):
     Function Name : start_interview
     Description   : Conducts the interview by asking selected questions.
     Parameters    :
-        agent              : Object of MockInterviewAgent class
-        selected_questions : List of questions selected for interview
+    agent         : Object of MockInterviewAgent class
+    selected_questions : List of questions selected for interview
     """
 
     # Ask questions one by one
